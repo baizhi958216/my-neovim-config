@@ -1,0 +1,5 @@
+require("basic")
+require("plugins")
+require("theme")
+require("plugins-config.nvim-tree")
+require("language-server")
